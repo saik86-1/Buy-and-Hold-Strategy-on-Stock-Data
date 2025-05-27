@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c0873123-6529-4308-b9cd-2658d3d4105c)# Buy-and-Hold-Strategy-on-Stock-Data
+# Buy-and-Hold-Strategy-on-Stock-Data
 # 📈 Strategic Portfolio Optimization
 
 ## 🔍 Overview  
@@ -11,7 +11,7 @@ Investors face the challenge of selecting optimal portfolios that provide the be
 The dataset consists of historical stock price data from 30 S&P 500 companies, spanning the years 2017 to 2022. It includes daily closing prices, which are used for exploratory data analysis, momentum calculations, and portfolio optimization modeling.
 
 ## 💡 Key Findings  
-
+![image](https://github.com/user-attachments/assets/c0873123-6529-4308-b9cd-2658d3d4105c)
 - 📈 Momentum trading analysis identified the top-performing stocks consistently over the period, enabling refined strategy development.  
 - ⚖️ An optimization model using Pyomo evaluated over 100 risk-return scenarios, successfully determining an efficient frontier for portfolio selection.  
 - 💰 The final investment strategy, applied to a $100,000 portfolio, outperformed the S&P 500 benchmark by 34%, demonstrating the effectiveness of combining momentum trading with modern portfolio theory.
